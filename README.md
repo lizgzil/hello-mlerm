@@ -8,4 +8,5 @@ Bleps, however, almost seem accidental. The tongue is left protruding from the m
 Boops are more clearly identified and are most commonly associated with a light tap on the nose.
 
 ![Screenshot](mlerm.png)
-![alt text](https://raw.githubusercontent.com/lizgzil/hell-mlerm/README/mlerm.png)
+![alt text](https://raw.githubusercontent.com/lizgzil/hell-mlerm/mlerm.png)
+![alt text](hello-mlerm/mlerm.jpg)
